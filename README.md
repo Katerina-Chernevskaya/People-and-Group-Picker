@@ -87,7 +87,7 @@ To work with the output property you can use [COMPONENT_NAME_IN_YOUR_APP].colMem
 ![DStep6](assets/DStep6.png)
 
 
-### <a id="dtvteams" />[Install in Dataverse for Teams environment]
+### <a id="dtvteams" />Install in Dataverse for Teams environment
 
 * Download the `.zip` from the `solution` folder
 * Open `Power Apps for Teams` app in Microsoft Teams, go to the `Build` tab, choose the team where you would like to install the solution and click `Import your solution`
