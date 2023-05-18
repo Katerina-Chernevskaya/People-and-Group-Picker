@@ -59,7 +59,7 @@ The sample's solution includes just 1 component:
 
 You can install this sample for both [Dataverse](#dtv) or [Dataverse for Teams](#dtvteams) environment. Go to the required section to get step-by-step instructions.
 
-### [Install in Dataverse][dtv]
+### <a id="dtv" />Install in Dataverse
 
 * Download the `.zip` from the `solution` folder
 * Open `Power Apps` maker portal (https:// make.powerapps.com) and go to your dedicated environment where you would like to import the `People and Group Picker`. Go to the `Solution` tab and click `Import solution`
@@ -87,7 +87,7 @@ To work with the output property you can use [COMPONENT_NAME_IN_YOUR_APP].colMem
 ![DStep6](assets/DStep6.png)
 
 
-### [Install in Dataverse for Teams environment][dtvteams]
+### <a id="dtvteams" />[Install in Dataverse for Teams environment]
 
 * Download the `.zip` from the `solution` folder
 * Open `Power Apps for Teams` app in Microsoft Teams, go to the `Build` tab, choose the team where you would like to install the solution and click `Import your solution`
