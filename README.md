@@ -27,7 +27,7 @@ The *_People and Group Picker_* offers customization options, such as color sche
 
 Solution|Author(s)
 --------|---------
-People-and-Group-Picker | [Katerina Chernevskaya](https://github.com/Katerina-Chernevskaya) ([LinkedIn](https://www.linkedin.com/in/katerinachernevskaya/)), Awara IT Academyy
+People-and-Group-Picker | [Katerina Chernevskaya](https://github.com/Katerina-Chernevskaya) ([LinkedIn](https://www.linkedin.com/in/katerinachernevskaya/)), Awara IT Academy
 
 ## Version history
 
@@ -138,4 +138,4 @@ Finally, if you have an idea for improvement, [make a suggestion](https://github
 - [Power Apps canvas apps documentation](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/)
 
 
-<img src="https://telemetry.sharepointpnp.com/powerapps-samples/samples/readme-template" />
+<img src="https://telemetry.sharepointpnp.com/powerapps-samples/samples/people-and-group-picker" />
